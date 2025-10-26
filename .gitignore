@@ -73,6 +73,7 @@ chainlit.md
 venv/
 __pycache__/
 *pyc*
+requirements(backup).txt
 
 # ============================================================
 # 🧱 Framework-Specific (Next.js / Vercel)
