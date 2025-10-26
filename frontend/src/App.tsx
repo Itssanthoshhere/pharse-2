@@ -11,7 +11,7 @@ import Index from "./pages/Index"; // landing home
 
 // Auth Pages
 import Login from "./pages/Login";
-import Signup from "./pages/Signup";
+import Signup from "./pages/Signup.tsx";
 
 // Protected Pages
 import Dashboard from "./pages/Dashboard";
