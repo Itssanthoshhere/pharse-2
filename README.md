@@ -65,7 +65,7 @@ Two demo analyses available:
 MONGO_URL=\"mongodb://localhost:27017\"
 DB_NAME=\"drmf_crm\"
 CORS_ORIGINS=\"*\"
-EMERGENT_LLM_KEY=sk-emergent-bD2B8B2BcAbEdBb583
+EMERGENT_LLM_KEY=sk-emergent
 JWT_SECRET=drmf_secret_key_change_in_production
 JWT_ALGORITHM=HS256
 JWT_EXPIRATION_HOURS=24
